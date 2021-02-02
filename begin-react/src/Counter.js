@@ -19,3 +19,8 @@ function Counter() {
 }
 
 export default Counter;
+<<<<<<< HEAD
+=======
+
+docker ps
+>>>>>>> a1372f6f63f835711b9a315fc4f4d994d591fb6d
